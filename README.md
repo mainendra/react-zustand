@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # react-zustand
-React application using zustand state management
+React application using [zustand](https://github.com/pmndrs/zustand) state management
 
 ## Available Scripts
 
